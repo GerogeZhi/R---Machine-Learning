@@ -1,9 +1,13 @@
 ## R-for-Statistical-Learning
 
  Linear Regression 
+ 
  Multiple Linear Regression 
+ 
  Qualitative Predictors 
+ 
  Logistic Regression, LDA, QDA, and KNN 
+ 
 ### An Application to The stock Market Data 
 
  Linear Discriminant Analysis 

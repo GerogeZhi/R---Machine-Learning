@@ -8,8 +8,7 @@
  
  Logistic Regression, LDA, QDA, and KNN 
  
-### An Application to The stock Market Data 
-
+` An Application to The stock Market Data `  
 
  Linear Discriminant Analysis 
  
@@ -17,8 +16,7 @@
  
  K-Nearest Neighbors 
  
-
-### An Application to Caravan Insurance Data 
+` An Application to Caravan Insurance Data ` 
 
  The validation Set Approach 
  
@@ -28,7 +26,6 @@
  
  The Bootstrap 
  
-
  Estimating the Accuracy of Linear Regression Model 
  
  Subset Selection Methods 
@@ -36,19 +33,17 @@
  Forward and Backward Stepwise Selection 
  
  Choosing Among Models 
- 
 
  Ridge Regression 
  
  The Lasso 
  
-
  Principle Components Regression 
  
  Partical Least Squares 
  
 
-### Non-linear Modeling 
+#### Non-linear Modeling 
 
  Splines 
  GAMs(Generalized Additive Models) 
@@ -71,20 +66,20 @@
  
  SVM with Multiple Classes 
  
-### Application to Gene Expression Data 
+` Application to Gene Expression Data `  
 
 
  (PCA)Principal Component Analysis 
  
  
-### clustering 
+#### clustering 
 
  K-Means Clustering 
  
  Hierarchical Clustering 
  
 
-### Lab3:NCI60 Data Example 
+#### Lab3:NCI60 Data Example 
 
 
  The NCI60 data 

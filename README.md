@@ -44,7 +44,7 @@
  
 --- 
 
-#### Non-linear Modeling 
+### Non-linear Modeling 
 
  Splines 
  GAMs(Generalized Additive Models) 
@@ -73,7 +73,7 @@
  (PCA)Principal Component Analysis 
  
  
-### clustering 
+### Clustering 
 
  K-Means Clustering 
  

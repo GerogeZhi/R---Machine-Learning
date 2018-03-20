@@ -72,14 +72,14 @@
  (PCA)Principal Component Analysis 
  
  
-#### clustering 
+### clustering 
 
  K-Means Clustering 
  
  Hierarchical Clustering 
  
 
-#### Lab3:NCI60 Data Example 
+### Lab3:NCI60 Data Example 
 
 
  The NCI60 data 

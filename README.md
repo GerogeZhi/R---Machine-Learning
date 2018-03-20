@@ -42,6 +42,7 @@
  
  Partical Least Squares 
  
+--- 
 
 #### Non-linear Modeling 
 

@@ -1004,12 +1004,3 @@ table(cutree(hc.out,4),nci.labs)
 
 
 
-
-
-
-
-
-
-
-
-
